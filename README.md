@@ -5,9 +5,9 @@ Ini adalah sebuah projek yang dilaksanakan untuk memenuhi tugas MID TEST Databas
 
 ## Tampilan dari Simple CRUD with PHP
 ++ Halaman LogIn
-![](assets/login-page.png)
+![](assets/login-page.PNG)
 ++ Halaman Home
-![](assets/home-page.png)
+![](assets/home-page.PNG)
 
 ## Note
 ```
